@@ -20,6 +20,7 @@ var About = (props) => {
           <a href="http://heroku.com/">Heroku</a>
         </li>
       </ul>
+	  <p>The source code is on <a href="https://github.com/winestock/ReactWeather">GitHub</a>.</p>
     </div>
   )
 };
